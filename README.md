@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nisarg266/Nisarg266/output/snake.svg" alt="Snake animation" />
+<img src="/github-user-contribution (1).svg" alt="Snake animation" />
 
 ###
